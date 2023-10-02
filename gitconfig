@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kimiko.ando13@icloud.com
+	name = kimiko ando
